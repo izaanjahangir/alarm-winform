@@ -1,0 +1,11 @@
+E:\csharp\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe.config
+E:\csharp\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe
+E:\csharp\AlarmClock\AlarmClock\bin\Debug\AlarmClock.pdb
+E:\csharp\AlarmClock\AlarmClock\obj\Debug\AlarmClock.csproj.AssemblyReference.cache
+E:\csharp\AlarmClock\AlarmClock\obj\Debug\AlarmClock.csproj.SuggestedBindingRedirects.cache
+E:\csharp\AlarmClock\AlarmClock\obj\Debug\AlarmClock.Form1.resources
+E:\csharp\AlarmClock\AlarmClock\obj\Debug\AlarmClock.Properties.Resources.resources
+E:\csharp\AlarmClock\AlarmClock\obj\Debug\AlarmClock.csproj.GenerateResource.cache
+E:\csharp\AlarmClock\AlarmClock\obj\Debug\AlarmClock.csproj.CoreCompileInputs.cache
+E:\csharp\AlarmClock\AlarmClock\obj\Debug\AlarmClock.exe
+E:\csharp\AlarmClock\AlarmClock\obj\Debug\AlarmClock.pdb
